@@ -2,7 +2,7 @@
 
 ### Github Achievement
 [![trophy](https://github-profile-trophy.vercel.app/?username=kaef74)](https://github.com/ryo-ma/github-profile-trophy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?kaef74=kaef74&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaef74&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaef74)](https://git.io/streak-stats)
 
 <!--
