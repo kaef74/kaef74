@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 ### Github Achievement
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stasnorman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stasnorman)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kaef74)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?kaef74=kaef74&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaef74)](https://git.io/streak-stats)
 
 <!--
 **kaef74/kaef74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
